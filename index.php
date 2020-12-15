@@ -6,5 +6,13 @@
  </head>
  <body>
    <h1>สวัสดีศิลปากร</h1>
+   <h2>Web Technology for Data Science </h2>
+
+   <p>ชื่อหลักสูตรภาษาไทย : หลักสูตรวิทยาศาสตรบัณฑิต สาขาวิชาวิทยาการข้อมูล
+      ชื่อภาษาอังกฤษ : Bachelor of Science Program in Data Science
+   </p>
+
+   <a href="https://cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">รายละเอียดหลักสูตร วิทยาการข้อมูล</a>
  </body>
 </html>
+
